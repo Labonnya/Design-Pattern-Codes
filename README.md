@@ -12,11 +12,13 @@ Abstract Factory: Implements the Abstract Factory pattern, which provides an int
 Builder: Demonstrates the Builder pattern, where a builder class is used to construct complex objects step by step.
 
 
+
 **Structural Patterns:**
 
 Composite: Implements the Composite pattern, where objects are structured into a tree-like hierarchy, allowing clients to treat individual objects and groups of objects uniformly.
 
 Decorator: Demonstrates the Decorator pattern, which dynamically adds responsibilities to an object by wrapping it in a decorator class.
+
 
 
 **Behavioral Patterns:**

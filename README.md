@@ -1,7 +1,7 @@
 # DP-Codes
 This folder contains the implementation of various design patterns, including creational, structural, and behavioral patterns, in different programming languages. Each design pattern has its own code file, providing a comprehensive collection for learning and reference purposes.
 
-**Creational Patterns:**
+# **Creational Patterns**
 
 Factory Method: Implements the Factory Method pattern, which defines an interface for creating objects, but allows subclasses to decide which class to instantiate.
 
@@ -13,7 +13,7 @@ Builder: Demonstrates the Builder pattern, where a builder class is used to cons
 
 
 
-**Structural Patterns:**
+# **Structural Patterns**
 
 Composite: Implements the Composite pattern, where objects are structured into a tree-like hierarchy, allowing clients to treat individual objects and groups of objects uniformly.
 
@@ -21,7 +21,7 @@ Decorator: Demonstrates the Decorator pattern, which dynamically adds responsibi
 
 
 
-**Behavioral Patterns:**
+# **Behavioral Patterns**
 
 Chain of Responsibility: Implements the Chain of Responsibility pattern, where a series of handlers are used to process a request, with each handler having the ability to either handle the request or pass it to the next handler in the chain.
 
